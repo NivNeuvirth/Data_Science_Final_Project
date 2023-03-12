@@ -19,5 +19,15 @@ I collected data about thousands of different beers, and used the data with the 
   2.the rest of the code written in jupiter notebook
 
 * Presentation: 
+  All the timeline steps decribed in length. 
+  Language: English
 
 * Youtube video: 
+  A short video describing the main steps of each timeline step.
+  Video length: 8 minutes
+  Language spoken: Hebrew
+  Subtitles: Hebrew
+ 
+[(https://img.youtube.com/vi/kMGCeuvlchA&t=1s/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=kMGCeuvlchA&t=1s)
+
