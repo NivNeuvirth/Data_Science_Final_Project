@@ -28,6 +28,7 @@ I collected data about thousands of different beers, and used the data with the 
   Language spoken: Hebrew
   Subtitles: Hebrew
  
-[(https://img.youtube.com/vi/kMGCeuvlchA&t=1s/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=kMGCeuvlchA&t=1s)
+[![test]          // Title
+(https://i.ytimg.com/vi/v=kMGCeuvlchA&t/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=kMGCeuvlchA&t=1s "tes")
 
