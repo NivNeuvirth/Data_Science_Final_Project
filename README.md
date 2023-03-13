@@ -14,19 +14,19 @@ I collected data about thousands of different beers, and used the data with the 
 
 ## Attachments
 * Code:
-  the code is divided to 2 parts:
-  1.the crawling/scraping code written in pyChram 
-  2.the rest of the code written in jupiter notebook
-
+  the code is divided to 2 parts:  
+  1. The crawling/scraping code written in pyChram.  
+  2. The rest of the code written in jupiter notebook.
+    
 * Presentation: 
-  All the timeline steps decribed in length. 
+  All the timeline steps decribed in length.  
   Language: English
 
 * Youtube video: 
-  A short video describing the main steps of each timeline step.
-  Video length: 8 minutes
-  Language spoken: Hebrew
+  A short video describing the main steps of each timeline step.  
+  Video length: 8 minutes  
+  Language spoken: Hebrew  
   Subtitles: Hebrew
  
-[<img src="https://i.ytimg.com/vi/kMGCeuvlchA&t=1/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=kMGCeuvlchA&t=1s)
-
+Click the image below to watch the video:  
+[<img src="https://i.ytimg.com/vi/kMGCeuvlchA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=kMGCeuvlchA&t=1s "Data Science Final Project")
