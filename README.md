@@ -20,13 +20,13 @@ I collected data about thousands of different beers, and used the data with the 
     
 * Presentation: 
   All the timeline steps decribed in length.  
-  Language: English
+  Language written: English
 
 * Youtube video: 
   A short video describing the main steps of each timeline step.  
   Video length: 8 minutes  
   Language spoken: Hebrew  
-  Subtitles: Hebrew
+  Subtitles: English, Hebrew
  
-Click the image below to watch the video:  
-[<img src="https://i.ytimg.com/vi/kMGCeuvlchA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=kMGCeuvlchA&t=1s "Data Science Final Project")
+  Click the image below to watch the video:  
+  [<img src="https://i.ytimg.com/vi/kMGCeuvlchA/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=kMGCeuvlchA&t=1s "Data Science Final Project")
